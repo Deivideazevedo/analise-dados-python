@@ -1,0 +1,17 @@
+
+/* Selecionando o elemento com id="titulo" */
+#titulo {
+    color: #5D9CEC; 
+    font-size: 32px; 
+    font-weight: bold; 
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+#subtitulo {
+    color: #A9D0F5; 
+    font-weight: bold; 
+    font-size: 20px;
+}
